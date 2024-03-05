@@ -9,8 +9,6 @@ try:
     print("Multiplication: ",multiply(num1,num2))
     print("Division: ",divide(num1,num2))
 
-except ValueError as e:
-    print("Value Error: ",e)
 
 except Exception as e:
     print("Exception: ",e)
