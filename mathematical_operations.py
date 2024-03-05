@@ -20,4 +20,3 @@ def multiply(a,b):
     
 
 
-print(multiply(4,6),add(4,6),substract(4,6))
